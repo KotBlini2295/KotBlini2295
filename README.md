@@ -1,0 +1,4 @@
+- � Hi, I’m @KotBlini2295
+- � I’m interested in learning to code with Python, Java, HTML and CSS
+- � I’m currently learning a level three IT Course
+- � Feel free to contact over this site
